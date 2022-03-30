@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_entities_form"
+    app:startDestination="@id/entitiesFormFragment">
+
+    <fragment
+        android:id="@+id/entitiesFormFragment"
+        android:name="com.example.test2.ui.entities.entitiesForm.EntitiesFormFragment"
+        android:label="fragment_entities_form"
+        tools:layout="@layout/fragment_entities_form" >
+        <action
+            android:id="@+id/action_formFragment_to_googleMapsLocationPickerActivity"
+            app:destination="@id/googleMapsLocationPickerActivity" />
+    </fragment>
+    <activity
+        android:id="@+id/googleMapsLocationPickerActivity"
+        android:name="com.example.test2.ui.services.googleMapsLocationPicker.GoogleMapsLocationPickerActivity"
+        android:label="activity_google_maps_location_picker"
+        tools:layout="@layout/activity_google_maps_location_picker" />
+
+</navigation>

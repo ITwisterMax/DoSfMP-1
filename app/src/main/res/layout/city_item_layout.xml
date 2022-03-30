@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/city_list_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/ic_rounded_background"
+    android:layout_margin="6dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:orientation="horizontal"
+        android:paddingStart="0dp"
+        android:paddingTop="0dp"
+        android:paddingEnd="0dp"
+        android:paddingBottom="0dp">
+
+        <LinearLayout
+            android:layout_width="100dp"
+            android:layout_height="120dp"
+            android:layout_marginTop="0dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/city_item_image"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_marginEnd="0dp"
+                android:src="@drawable/ic_baseline_image_not_supported_24"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/cityItemName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="City name, Country"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif-light" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/cityItemLatitude"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="20dp"
+                        android:text="Latitude: 40,512°"
+                        app:layout_constraintBottom_toBottomOf="@id/cityItemName"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintLeft_toLeftOf="@id/cityItemName"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="0.953"
+                        android:textSize="16sp"
+                        android:fontFamily="sans-serif-light"/>
+
+                    <TextView
+                        android:id="@+id/cityItemLongitude"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="10dp"
+                        android:text="Logitude: 40,512°"
+                        app:layout_constraintBottom_toBottomOf="@id/cityItemName"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintLeft_toLeftOf="@id/cityItemName"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="0.953"
+                        android:textSize="16sp"
+                        android:fontFamily="sans-serif-light"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/cityItemWeather"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="-20.00 °С"
+                        android:gravity="center"
+                        android:textStyle="italic"
+                        android:fontFamily="sans-serif-light"/>
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

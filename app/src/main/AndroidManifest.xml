@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.test2">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_custom"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Test2">
+        <activity
+            android:name=".SplashScreenActivity"
+            android:theme="@style/SplashScreenTheme"
+            android:exported="true">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyABdYQ8EzK9Q0rvLwHSRm-7AzW7kj0BawY" />
+
+        <activity
+            android:name=".ui.entities.entitiesForm.EntitiesFormActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.services.googleMapsLocationPicker.GoogleMapsLocationPickerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+        </activity>
+    </application>
+
+</manifest>

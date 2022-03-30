@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.124" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/drawable/ic_baseline_anchor_24.xml" value="0.124" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1815" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1815" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.124" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.124" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/drawable/ic_plus.xml" value="0.236" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/drawable/ic_rounded_background.xml" value="0.1505" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.1135" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/layout/activity_entities_form.xml" value="0.152" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/layout/activity_google_maps_location_picker.xml" value="0.22282608695652173" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/layout/city_item_layout.xml" value="0.264" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/layout/food_item_layout.xml" value="0.24547101449275363" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/layout/fragment_entities.xml" value="0.16" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/layout/fragment_entities_details_form.xml" value="0.11302083333333333" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/layout/fragment_entities_form.xml" value="0.16" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/layout/fragment_google_map.xml" value="0.22282608695652173" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/layout/fragment_google_maps_location_picker.xml" value="0.264" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/layout/fragment_home.xml" value="0.24547101449275363" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/layout/fragment_map.xml" value="0.22282608695652173" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/layout/fragment_settings.xml" value="0.2825520833333333" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/menu/entities_search_view.xml" value="0.264" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/menu/menu_add_city.xml" value="0.264" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/menu/menu_form_confirm.xml" value="0.25416666666666665" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.124" />
+        <entry key="..\:/Studying/Univer/6_semester/Mobile/Test2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_custom.xml" value="0.124" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.127" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/drawable/ic_baseline_anchor_24.xml" value="0.127" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/drawable/ic_baseline_image_not_supported_24.xml" value="0.127" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/drawable/ic_baseline_map_24.xml" value="0.127" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.127" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.127" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.127" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.127" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.127" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/drawable/ic_plus.xml" value="0.127" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/drawable/ic_rounded_background.xml" value="0.127" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.127" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/layout/activity_entities_form.xml" value="0.11614583333333334" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/layout/activity_google_maps_location_picker.xml" value="0.22826086956521738" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/layout/activity_splash_screen.xml" value="0.11614583333333334" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/layout/city_item_layout.xml" value="0.11614583333333334" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/layout/fragment_entities.xml" value="0.22826086956521738" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/layout/fragment_entities_form.xml" value="0.11614583333333334" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/layout/fragment_google_maps_location_picker.xml" value="0.22826086956521738" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/layout/fragment_map.xml" value="0.11614583333333334" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/layout/fragment_settings.xml" value="0.11614583333333334" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/menu/bottom_nav_menu.xml" value="0.11614583333333334" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/menu/entities_search_view.xml" value="0.11614583333333334" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/menu/menu_add_city.xml" value="0.11614583333333334" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/menu/menu_form_confirm.xml" value="0.11614583333333334" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.127" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_custom.xml" value="0.127" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_custom_round.xml" value="0.127" />
+        <entry key="..\:/Work/GitHub/Application1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.127" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
